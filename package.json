@@ -1,0 +1,26 @@
+{
+  "name": "dicsordtestbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddyBautista-93/dicsordTestBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddyBautista-93/dicsordTestBot/issues"
+  },
+  "homepage": "https://github.com/EddyBautista-93/dicsordTestBot#readme",
+  "keywords": [],
+  "description": ""
+}
