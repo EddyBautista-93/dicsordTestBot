@@ -12,7 +12,7 @@ const getQuote = () => {
         return res.json() // sends a json response 
     })
     .then(data => {
-        return data[0]["q"] + " -" + data[0]["a"] // grab the quote and author and format it for the discord mssg
+        return data[0]["q"] + " -" + data[0]["a"] // grab the quote and author and format it for the discord msg
     })
 }
 
